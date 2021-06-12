@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapTwoNumbersWithoutUsingTemporaryVariable", "SwapTwoNumbersWithoutUsingTemporaryVariable.csproj", "{56E9E5F5-927C-42C0-BA59-788B39C43F82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56E9E5F5-927C-42C0-BA59-788B39C43F82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56E9E5F5-927C-42C0-BA59-788B39C43F82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56E9E5F5-927C-42C0-BA59-788B39C43F82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56E9E5F5-927C-42C0-BA59-788B39C43F82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE09FD5C-27F6-4517-84C0-87F0050F9EDA}
+	EndGlobalSection
+EndGlobal
